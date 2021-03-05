@@ -22,5 +22,6 @@ else if(brand==bmw && color==black && model==2020){
 else{
     console.log("Uzgunuz bu araca bakim yapamiyoruz..")
 }
+    console.log("Hatali giris..")
 }
 
